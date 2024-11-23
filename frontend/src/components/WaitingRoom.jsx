@@ -33,7 +33,7 @@ export const WaitingRoom = ({ joinChat }) => {
 				/>
 			</div>
 			<Button type="submit" colorScheme="blue">
-				Присоединиться
+				Join
 			</Button>
 		</form>
 	);

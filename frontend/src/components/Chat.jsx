@@ -36,7 +36,7 @@ export const Chat = ({ messages, chatRoom, sendMessage, closeChat }) => {
 					placeholder="Enter a message"
 				/>
 				<Button colorScheme="blue" onClick={onSendMessage}>
-					Отправить
+					Send
 				</Button>
 			</div>
 		</div>
